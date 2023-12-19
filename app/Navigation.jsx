@@ -24,7 +24,7 @@ const Navigation = () => {
               {
                 id: `item.${item.id}.image`,
                 animation: 'fade',
-                resize: 'clip'
+                // resize: 'clip'
                 // align: ''left-top'
               },
             ];
